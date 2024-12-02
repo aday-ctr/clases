@@ -1,1 +1,3 @@
-# clases
+# Clases
+
+## Diagrama 1
